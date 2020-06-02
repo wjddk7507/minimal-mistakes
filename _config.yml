@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "JUNGA"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/junga_emoji.png"
+  bio              : "정아의 기술 블로그"
   location         : "Somewhere"
   email            :
   links:
