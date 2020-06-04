@@ -1,5 +1,6 @@
 ---
 title: "About"
+permalink: /year-archive/
 author_profile: true
 ---
 
