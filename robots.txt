@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wjddk7507.github.io/sitemap.xml
